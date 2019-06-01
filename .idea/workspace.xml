@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12936dc2-ab3e-4874-a6ac-dea3da78b568" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ/recources/ATMBundle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ/recources/ATMBundle_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ/recources/ATMBundle_ru_RU.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ/src/DZ92_23_Bankomat/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ/src/DZ92_23_Bankomat/Banknote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ/DZ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DZ/DZ.iml" afterDir="false" />
-    </list>
+    <list default="true" id="12936dc2-ab3e-4874-a6ac-dea3da78b568" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DZ/src/DZ92_23_Bankomat/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="51">
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -339,14 +330,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559404941478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="задание 23 банкомат с заданием 18-го урока выбор языка">
+      <created>1559405649799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559405649799</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="20" width="1285" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.26938775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4986945" visible="true" weight="0.26938775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,7 +353,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50130546" side_tool="true" weight="0.26530612" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3099099" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3099099" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,7 +375,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="задание 23 банкомат с заданием ё8-го урока выбор языка" />
-    <option name="LAST_COMMIT_MESSAGE" value="задание 23 банкомат с заданием ё8-го урока выбор языка" />
+    <MESSAGE value="задание 23 банкомат с заданием 18-го урока выбор языка" />
+    <option name="LAST_COMMIT_MESSAGE" value="задание 23 банкомат с заданием 18-го урока выбор языка" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -737,8 +736,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DZ/src/DZ92_23_Bankomat/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
